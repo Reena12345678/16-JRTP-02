@@ -7,6 +7,7 @@ public class test {
 	
 	
 		System.out.println("welcome");
+		System.out.println("i=10");
 
 	}
 
