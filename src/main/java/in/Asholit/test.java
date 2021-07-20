@@ -7,7 +7,8 @@ public class test {
 	
 	
 		System.out.println("welcome");
-		System.out.println("i=10");
+		int i=300, j=100;
+		System.out.println("sum of i and j is"+i+j);
 
 	}
 
