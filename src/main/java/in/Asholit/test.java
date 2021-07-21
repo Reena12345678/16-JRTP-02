@@ -9,7 +9,7 @@ public class test {
 		System.out.println("welcome");
 		int i=300, j=100;
 		System.out.println("sum of i and j is"+i+j);
-			System.out.println("Good morning");
+			System.out.println("bye bye");
 	}
 
 }
